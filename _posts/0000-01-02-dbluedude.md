@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+It's chili today and hot tamale!
 Use the left arrow to go back!
